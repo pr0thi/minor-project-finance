@@ -23,3 +23,7 @@ another route grp is for dashboard. route grp is for better mgmt
 
 make dashboard the root page. drag page.tsx inside 
 
+API Routes : using HONO 
+in next page.tsx Client routes in next-js using folders 
+
+hono, drizzle, zod auth DB 
