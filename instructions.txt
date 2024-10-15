@@ -1,0 +1,25 @@
+bunx for installation
+
+shadcn installation
+
+button installation, using shadcn components>ui mai aa jaayga, stylings mai change ho jaayga 
+
+page file is reserved/ represents the root page 
+
+hono is library for authentication (protected routes)
+
+folder name inside app will take part of the navigation, eg test folder inside of app will take part as /test
+
+what if we don't want folder to be part of url, route grp 
+(auth) > sign-in page > page.tsx similarily for sign-up as well 
+
+catch all routes to get parameters [[..signin]] move page.tsx inside the sign-in>[[...sign-in]]
+auth provider the ability to redirect 
+same thing for sign-up
+
+.next folder is for cache 
+
+another route grp is for dashboard. route grp is for better mgmt 
+
+make dashboard the root page. drag page.tsx inside 
+
